@@ -8,7 +8,7 @@ export interface ScriptDef {
 }
 
 export const SCRIPT_URL =
-  "loadstring(game:HttpGet('https://raw.githubusercontent.com/rdevx23/testing/refs/heads/main/XLAM.lua'))()";
+  "loadstring(game:HttpGet('https://github.com/rdevx23/testing/raw/refs/heads/main/shubxv2.lua'))()";
 
 export function generateRandomLoadstring(): string {
   return SCRIPT_URL;
